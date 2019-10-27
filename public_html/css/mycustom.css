@@ -1,0 +1,19 @@
+.container {
+  width: auto;
+  max-width: 1100px!important;
+  padding: 0 15px;
+}
+.container-rs {
+  width: auto;
+  max-width: 1150px!important;
+  padding: 0 15px;
+}
+.footer {
+  background-color: #f5f5f5;
+}
+    .bs-example{
+        margin: 0px;
+    }
+    .accordion .fa{
+        margin-right: 0.5rem;
+    }
